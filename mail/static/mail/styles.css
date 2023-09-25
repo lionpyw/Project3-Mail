@@ -1,0 +1,16 @@
+textarea {
+    min-height: 400px;
+}
+
+#emails-body{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-size: larger;
+
+}
+
+#emails-view{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: larger;
+}
